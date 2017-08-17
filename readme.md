@@ -9,8 +9,8 @@
 - [신비로운 유적 탐험 제출자:81 정답자:25](https://www.kakaocode.com/tryouts/1363/intro)
 ### 2. Contact
 ```javascript
-<b>Copyright all rights reserved by 2017 Hume corporation.</b>
+<b><u>Copyright all rights reserved by 2017 Hume corporation.</u></b>
 ```
-<tony92511@hanmail.net>
-<www.hume.co.kr>
+<tony92511@hanmail.net><br>
+<http://www.hume.co.kr><br>
 <https://github.com/nar789>
